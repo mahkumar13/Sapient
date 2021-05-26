@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace SinglyLinkedList
 {
     class Program
-    {
-        static void Main(string[] args)
+        static void Main(string[] args) aa
         {
             SinglyLinkedList myList = new SinglyLinkedList();
             myList.insertFirst(100);
