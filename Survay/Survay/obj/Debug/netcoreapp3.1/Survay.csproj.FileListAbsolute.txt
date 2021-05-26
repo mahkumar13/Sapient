@@ -1,0 +1,13 @@
+F:\c#\Survay\Survay\bin\Debug\netcoreapp3.1\Survay.exe
+F:\c#\Survay\Survay\bin\Debug\netcoreapp3.1\Survay.deps.json
+F:\c#\Survay\Survay\bin\Debug\netcoreapp3.1\Survay.runtimeconfig.json
+F:\c#\Survay\Survay\bin\Debug\netcoreapp3.1\Survay.runtimeconfig.dev.json
+F:\c#\Survay\Survay\bin\Debug\netcoreapp3.1\Survay.dll
+F:\c#\Survay\Survay\bin\Debug\netcoreapp3.1\Survay.pdb
+F:\c#\Survay\Survay\obj\Debug\netcoreapp3.1\Survay.csprojAssemblyReference.cache
+F:\c#\Survay\Survay\obj\Debug\netcoreapp3.1\Survay.AssemblyInfoInputs.cache
+F:\c#\Survay\Survay\obj\Debug\netcoreapp3.1\Survay.AssemblyInfo.cs
+F:\c#\Survay\Survay\obj\Debug\netcoreapp3.1\Survay.csproj.CoreCompileInputs.cache
+F:\c#\Survay\Survay\obj\Debug\netcoreapp3.1\Survay.dll
+F:\c#\Survay\Survay\obj\Debug\netcoreapp3.1\Survay.pdb
+F:\c#\Survay\Survay\obj\Debug\netcoreapp3.1\Survay.genruntimeconfig.cache

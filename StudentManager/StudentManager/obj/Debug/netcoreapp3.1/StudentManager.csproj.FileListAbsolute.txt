@@ -1,0 +1,13 @@
+F:\c#\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.exe
+F:\c#\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.deps.json
+F:\c#\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.json
+F:\c#\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.dev.json
+F:\c#\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.dll
+F:\c#\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.pdb
+F:\c#\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csprojAssemblyReference.cache
+F:\c#\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfoInputs.cache
+F:\c#\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfo.cs
+F:\c#\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csproj.CoreCompileInputs.cache
+F:\c#\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.dll
+F:\c#\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.pdb
+F:\c#\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.genruntimeconfig.cache
